@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anastasis Papanagnou"
 title_separator          : "-"
 name                     : &name "Anastasis Papanagnou"
-description              : &description "personal description"
+description              : &description "Computer Vision Engineer @ Up2metric | Electrical and Computer Engineer AUTH"
 url                      : https://anastasispk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anastasispk/anastasispk.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Anastasis Papanagnou"
   avatar           : "avatar.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Vision Engineer @ Up2metric | Electrical and Computer Engineer AUTH"
   location         : "Thessaloniki, Greece"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=vwmstnYAAAAJ&hl=el"
   email            : "anastasispk@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Anastasis-Papanagnou"
   uri              :
   bitbucket        :
   codepen          :
